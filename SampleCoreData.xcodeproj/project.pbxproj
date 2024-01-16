@@ -15,6 +15,7 @@
 		3A5751D82B563BA400EFA7E0 /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5751D72B563BA400EFA7E0 /* DataController.swift */; };
 		3A5751DC2B5643DA00EFA7E0 /* AddFoodView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5751DB2B5643DA00EFA7E0 /* AddFoodView.swift */; };
 		3A5751DE2B56450F00EFA7E0 /* TimeFormatting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5751DD2B56450F00EFA7E0 /* TimeFormatting.swift */; };
+		3A5751E02B565D2500EFA7E0 /* EditFoodView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5751DF2B565D2500EFA7E0 /* EditFoodView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		3A5751D72B563BA400EFA7E0 /* DataController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
 		3A5751DB2B5643DA00EFA7E0 /* AddFoodView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddFoodView.swift; sourceTree = "<group>"; };
 		3A5751DD2B56450F00EFA7E0 /* TimeFormatting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeFormatting.swift; sourceTree = "<group>"; };
+		3A5751DF2B565D2500EFA7E0 /* EditFoodView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditFoodView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 			isa = PBXGroup;
 			children = (
 				3A5751C72B55668B00EFA7E0 /* ContentView.swift */,
+				3A5751DF2B565D2500EFA7E0 /* EditFoodView.swift */,
 				3A5751DB2B5643DA00EFA7E0 /* AddFoodView.swift */,
 			);
 			path = Views;
@@ -178,6 +181,7 @@
 				3A5751C82B55668B00EFA7E0 /* ContentView.swift in Sources */,
 				3A5751D82B563BA400EFA7E0 /* DataController.swift in Sources */,
 				3A5751C62B55668B00EFA7E0 /* SampleCoreDataApp.swift in Sources */,
+				3A5751E02B565D2500EFA7E0 /* EditFoodView.swift in Sources */,
 				3A5751D62B5566CD00EFA7E0 /* FoodModel.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
